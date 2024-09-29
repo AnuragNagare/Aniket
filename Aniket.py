@@ -1,7 +1,4 @@
-from google.colab import drive
 
-# Mount your Google Drive
-drive.mount('/content/drive')
 
 import imaplib
 import email
